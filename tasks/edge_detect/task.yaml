@@ -1,0 +1,4 @@
+id: edge_detect
+module: edge_detect
+category: sequential
+difficulty: easy
