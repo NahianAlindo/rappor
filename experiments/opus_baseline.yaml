@@ -1,0 +1,6 @@
+name: opus-baseline
+provider: anthropic
+models: [claude-opus-5-5]
+prompt: verbose
+effort: medium
+samples: 3

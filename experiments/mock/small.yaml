@@ -1,0 +1,5 @@
+name: mock-small-only
+provider: mock
+models: [mock-small]
+samples: 5
+response_cache: false

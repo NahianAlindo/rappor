@@ -1,0 +1,5 @@
+name: haiku-only
+provider: anthropic
+models: [claude-haiku-5-5]
+prompt: verbose
+samples: 3

@@ -1,0 +1,5 @@
+name: mock-cascade
+provider: mock
+models: [mock-small, mock-large]
+samples: 5
+response_cache: false

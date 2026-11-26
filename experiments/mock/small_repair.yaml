@@ -1,0 +1,6 @@
+name: mock-small-repair
+provider: mock
+models: [mock-small]
+repair_rounds: 2
+samples: 5
+response_cache: false

@@ -1,0 +1,7 @@
+# Same model as the baseline with a shorter system prompt.
+name: opus-concise
+provider: anthropic
+models: [claude-opus-5-5]
+prompt: concise
+effort: medium
+samples: 3

@@ -1,0 +1,7 @@
+# Cheap model, but feed simulator errors back for up to two repair rounds.
+name: haiku-repair
+provider: anthropic
+models: [claude-haiku-5-5]
+prompt: verbose
+repair_rounds: 2
+samples: 3

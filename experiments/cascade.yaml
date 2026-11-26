@@ -1,0 +1,7 @@
+# Try the cheap model first; escalate to Opus only if simulation fails.
+name: cascade-haiku-opus
+provider: anthropic
+models: [claude-haiku-5-5, claude-opus-5-5]
+prompt: verbose
+effort: medium
+samples: 3
